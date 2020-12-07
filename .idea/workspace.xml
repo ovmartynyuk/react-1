@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3073592a-5010-4d1b-b9f6-6cc6e4ce507d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Component/car/Car.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Component/car/CarComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data/cars.js" afterDir="false" />
+    <list default="true" id="3073592a-5010-4d1b-b9f6-6cc6e4ce507d" name="Default Changelist" comment="prj-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +71,16 @@
       <workItem from="1607197541560" duration="2115000" />
       <workItem from="1607199667272" duration="106000" />
       <workItem from="1607199783755" duration="1561000" />
-      <workItem from="1607201372909" duration="2551000" />
+      <workItem from="1607201372909" duration="3526000" />
     </task>
+    <task id="LOCAL-00001" summary="prj-1">
+      <created>1607204022594</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607204022594</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,5 +97,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="prj-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="prj-1" />
   </component>
 </project>
